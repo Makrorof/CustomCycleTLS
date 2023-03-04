@@ -8,7 +8,7 @@ import (
 	"log"
 	"testing"
 
-	cycletls "github.com/Danny-Dasilva/CycleTLS/cycletls"
+	cycletls "github.com/Makrorof/CycleTLS/cycletls"
 )
 
 func TestRedirectEnabled(t *testing.T) {
